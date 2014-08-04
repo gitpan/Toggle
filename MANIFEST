@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+README.md
+dist.ini
+lib/Toggle.pm
+lib/Toggle.pod
+t/lib/MockStore.pm
+t/toggle_spec.t
